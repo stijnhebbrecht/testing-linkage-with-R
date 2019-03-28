@@ -1,0 +1,6 @@
+print ("created in R")
+prin( "geen idee of dat hier werkt")
+print( "geen idee of dat hier werkt")
+save.image("C:/Users/shebbre1/Desktop/DQR/R getting and cleaning data/testing-linkage-with-R/testing.R.RData")
+print(" nog een test")
+savehistory("C:/Users/shebbre1/Desktop/DQR/R getting and cleaning data/testing-linkage-with-R/testing-linkage-with-R.Rproj")
